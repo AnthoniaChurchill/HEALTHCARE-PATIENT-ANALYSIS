@@ -57,9 +57,13 @@ Designed an interactive Excel dashboard combining KPI cards, charts, and tables,
 - Patient admissions stayed fairly consistent month to month, with no extreme spikes or drops across the year.
 
 ## Recommendations
-- Hospitals could use admission trends to plan staffing and resources ahead of higher-demand periods.
-- Insurance providers with notably higher billing amounts could be reviewed for cost transparency.
-- Further investigation into inconclusive test results could help improve diagnostic processes.
+Monitor admission patterns to support hospital resource planning.
+Review billing distributions to better understand healthcare costs.
+Track length-of-stay patterns to support operational planning.
+Monitor test-result distributions and investigate unusual patterns where appropriate.
+Use regularly updated reports to identify changes in patient and hospital activity.
 
 ## Conclusion
-This analysis demonstrates how cleaning and visualizing patient data can reveal meaningful patterns in demographics, costs, and outcomes. These insights can support healthcare providers in improving patient care and operational planning.
+This project demonstrates how Excel can be used to organise, summarise, and analyse healthcare records. Through Pivot Tables and visualisation, the analysis highlights patterns in medical conditions, admissions, billing, medication, and test results.
+
+The project demonstrates practical data analysis skills, including data preparation, summarisation, interpretation, and communicating findings to support data-informed decisions.
