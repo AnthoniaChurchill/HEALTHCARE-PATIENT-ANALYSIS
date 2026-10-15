@@ -9,9 +9,9 @@ Healthcare data is often large and unstructured, making it difficult to extract 
 ## Data Sourcing
 The dataset is a healthcare patient records dataset.
 
-**Records:** ~55,000 patient records
+Records: 55,966 patient records
 
-**Key Fields:**
+Key Fields:
 - Patient demographics (age, gender)
 - Medical condition
 - Admission type (Elective, Urgent, Emergency)
@@ -57,11 +57,11 @@ Designed an interactive Excel dashboard combining KPI cards, charts, and tables,
 - Patient admissions stayed fairly consistent month to month, with no extreme spikes or drops across the year.
 
 ## Recommendations
-Monitor admission patterns to support hospital resource planning.
-Review billing distributions to better understand healthcare costs.
-Track length-of-stay patterns to support operational planning.
-Monitor test-result distributions and investigate unusual patterns where appropriate.
-Use regularly updated reports to identify changes in patient and hospital activity.
+- Monitor admission patterns to support hospital resource planning.
+- Review billing distributions to better understand healthcare costs.
+- Track length-of-stay patterns to support operational planning.
+- Monitor test-result distributions and investigate unusual patterns where appropriate.
+- Use regularly updated reports to identify changes in patient and hospital activity.
 
 ## Conclusion
 This project demonstrates how Excel can be used to organise, summarise, and analyse healthcare records. Through Pivot Tables and visualisation, the analysis highlights patterns in medical conditions, admissions, billing, medication, and test results.
